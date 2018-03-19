@@ -13,7 +13,7 @@ You need Node.js at least version 4.
 
 And start the workshop by typing, in the terminal:
 
-`makemehapic`
+`makemehapi`
 
 You can get help by typing
 
